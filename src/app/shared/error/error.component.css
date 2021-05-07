@@ -1,0 +1,12 @@
+.alert{
+  text-align: center;
+  padding: 20px;
+}
+
+button, .btn-close{
+  padding: 25px;
+}
+
+.animate__animated.animate__fadeOut {
+  --animate-duration: 1s;
+}
