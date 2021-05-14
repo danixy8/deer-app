@@ -30,7 +30,8 @@
             "styles": [
               "./node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.scss",
-              "./node_modules/animate.css/animate.min.css"
+              "./node_modules/animate.css/animate.min.css",
+              "./node_modules/spinkit/spinkit.min.css"
             ],
             "scripts": [
               "./node_modules/@popperjs/core/dist/umd/popper.min.js",

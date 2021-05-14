@@ -11,3 +11,7 @@
 .nav-link{
   padding-top: 13px;
 }
+
+.dropdown-item{
+  text-shadow: -1px 0 rgba(78, 78, 78, 0.150), 0 1px rgba(78, 78, 78, 0.150), 1px 0 rgba(78, 78, 78, 0.150), 0 -1px rgba(78, 78, 78, 0.150);
+}
