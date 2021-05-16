@@ -4,7 +4,6 @@
 ![alt text](img/preview1.png)
 
 <br>
-<br>
 
 ## Preview 2
 ![alt text](img/preview2.png)
