@@ -1,5 +1,14 @@
 # BuscadorImagenesApp
 
+## Preview 1
+![alt text](img/preview1.png)
+
+<br>
+<br>
+
+## Preview 2
+![alt text](img/preview2.png)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.2.
 
 ## Development server
